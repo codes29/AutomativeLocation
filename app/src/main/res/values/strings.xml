@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AutomativeLocation</string>
+    <string name="location_updated">location updated</string>
+    <string name="launch_app">Launch App</string>
+    <string name="remove_location_updates">Remove Updates</string>
+</resources>
